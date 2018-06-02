@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/rapacz/3wid/issues"
   },
-  "homepage": "https://github.com/rapacz/3wid#readme"
+  "homepage": "https://github.com/rapacz/3wid#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
 }
